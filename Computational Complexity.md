@@ -1,4 +1,3 @@
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 # Computational Complexity
 - 알고리즘의 효율성을 표기해주는 표기법
 - 알고리즘의 효율성 : 데이터 개수(n)가 주어졌을 때 기분 연산의 횟수
