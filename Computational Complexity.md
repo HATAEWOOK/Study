@@ -1,3 +1,4 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 # Computational Complexity
 - 알고리즘의 효율성을 표기해주는 표기법
 - 알고리즘의 효율성 : 데이터 개수(n)가 주어졌을 때 기분 연산의 횟수
