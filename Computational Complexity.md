@@ -1,10 +1,3 @@
-<head>
-  <!-- Mathjax Support -->
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-</head>
-  
 <h1 id="computational-complexity">Computational Complexity</h1>
 <ul>
 <li>알고리즘의 효율성을 표기해주는 표기법</li>
