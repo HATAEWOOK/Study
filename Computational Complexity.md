@@ -3,7 +3,7 @@
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
-  </head>
+</head>
   
 <h1 id="computational-complexity">Computational Complexity</h1>
 <ul>
