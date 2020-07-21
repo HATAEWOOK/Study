@@ -6,10 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Computational Complexity </title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
-  <!-- Mathjax Support -->
-  <script type="text/javascript" async
-          src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
+<script type="text/x-mathjax-config">
+
+MathJax.Hub.Config({
+
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+
+});
+
+</script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 </head>
 
 <body class="stackedit">
